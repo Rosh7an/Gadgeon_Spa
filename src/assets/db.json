@@ -1,0 +1,20 @@
+{
+  "employee": [
+    {
+      "id": 100,
+      "name": "steve",
+      "DOB": "10-10-2000",
+      "Salary": 35000,
+      "email": "steve@gmail.com"
+    }
+  ],
+  "users": [
+    {
+      "name": "Roshan",
+      "email": "roshan@mail.com",
+      "pass": "123",
+      "repass": "123",
+      "id": 1
+    }
+  ]
+}
